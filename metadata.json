@@ -1,0 +1,6 @@
+{
+  "name": "FootyPulse - Live Football Scores",
+  "description": "Live football scores, real-time match stats, fixtures, results, standings, lineups, and commentary across top leagues worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
